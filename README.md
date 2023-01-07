@@ -15,8 +15,8 @@ create .env file
 ```
 
 ## Required GraphQL
-[Pokemon](https://github.com/voltgizerz/go-graphql)
-[User](https://github.com/voltgizerz/go-graphql-user)
+* [Pokemon](https://github.com/voltgizerz/go-graphql)
+* [User](https://github.com/voltgizerz/go-graphql-user)
 
 
 ## Author
