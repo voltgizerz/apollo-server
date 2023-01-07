@@ -6,11 +6,7 @@
   </a>
 </p>
 
-> Example go graphql using library gqlgen
-
-### 🏠 [Homepage]()
-
-### ✨ [Playground]()
+> Running GraphQL federation into one server.
 
 ## Installation
 
@@ -18,14 +14,7 @@
 create .env file
 ```
 
-## Usage
-
-```sh
-Running GraphQL federation into one server.
-```
-
-
-## Apollo Server
+## Required GraphQL
 [Pokemon](https://github.com/voltgizerz/go-graphql)
 [User](https://github.com/voltgizerz/go-graphql-user)
 
