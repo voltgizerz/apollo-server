@@ -18,33 +18,16 @@
 create .env file
 ```
 
-## Test
-
-```sh
-make test
-```
-
 ## Usage
 
 ```sh
-make run
+Running GraphQL federation into one server.
 ```
 
-## Linter
-
-```sh
-make check
-```
-
-## Fix Linter
-
-```sh
-make format
-```
 
 ## Apollo Server
-- Pokemon
-- User
+[Pokemon](https://github.com/voltgizerz/go-graphql)
+[User](https://github.com/voltgizerz/go-graphql-user)
 
 
 ## Author
